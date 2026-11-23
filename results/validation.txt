@@ -1,0 +1,11 @@
+test_mesh_refinement_reduces_error (test_fem.FiniteElements.test_mesh_refinement_reduces_error) ... ok
+test_q2_basis_reproduces_biquadratics (test_fem.FiniteElements.test_q2_basis_reproduces_biquadratics) ... ok
+test_boundary_conditions_hold_for_random_weights (test_lagaris.Equations.test_boundary_conditions_hold_for_random_weights) ... ok
+test_exact_solutions_satisfy_all_equations (test_lagaris.Equations.test_exact_solutions_satisfy_all_equations) ... ok
+test_fast_pde_residual_and_parameter_gradients (test_lagaris.Equations.test_fast_pde_residual_and_parameter_gradients) ... ok
+test_parameter_gradients_match_finite_difference (test_lagaris.Equations.test_parameter_gradients_match_finite_difference) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 2.211s
+
+OK

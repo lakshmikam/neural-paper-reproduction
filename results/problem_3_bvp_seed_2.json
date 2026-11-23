@@ -1,0 +1,16 @@
+{
+  "case": "3_bvp",
+  "seed": 2,
+  "parameters": 30,
+  "iterations": 445,
+  "evaluations": 521,
+  "optimizer_success": true,
+  "optimizer_message": "Optimization terminated successfully.",
+  "initial_loss": 2.480290694620497,
+  "final_loss": 6.35449165461979e-14,
+  "train_max_error": 6.524608076041716e-10,
+  "test_max_error": 7.675489688274695e-10,
+  "test_rmse": 3.957716674933271e-10,
+  "seconds": 3.6843422000019928,
+  "extrapolation_max_error": 2.634449258742677e-08
+}

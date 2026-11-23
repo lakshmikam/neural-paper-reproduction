@@ -1,0 +1,15 @@
+{
+  "case": "5",
+  "seed": 2,
+  "parameters": 40,
+  "iterations": 9624,
+  "evaluations": 10745,
+  "optimizer_success": false,
+  "optimizer_message": "Desired error not necessarily achieved due to precision loss.",
+  "initial_loss": 32.75939513613481,
+  "final_loss": 4.105432504360732e-11,
+  "train_max_error": 7.598873363878766e-09,
+  "test_max_error": 8.468920231763377e-09,
+  "test_rmse": 3.017500625997204e-09,
+  "seconds": 45.444500100005826
+}

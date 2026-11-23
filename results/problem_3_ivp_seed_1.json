@@ -1,0 +1,16 @@
+{
+  "case": "3_ivp",
+  "seed": 1,
+  "parameters": 30,
+  "iterations": 2535,
+  "evaluations": 2979,
+  "optimizer_success": false,
+  "optimizer_message": "Desired error not necessarily achieved due to precision loss.",
+  "initial_loss": 95.60842486302201,
+  "final_loss": 4.967075028383105e-13,
+  "train_max_error": 1.0870890443381853e-07,
+  "test_max_error": 1.0948683581979424e-07,
+  "test_rmse": 8.093711720173909e-08,
+  "seconds": 10.266619699999865,
+  "extrapolation_max_error": 1.7418362530663423e-06
+}

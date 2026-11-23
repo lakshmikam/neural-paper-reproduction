@@ -1,0 +1,12 @@
+{
+  "case": "6",
+  "elements_per_axis": 18,
+  "nodes": 1369,
+  "free_unknowns": 1225,
+  "residual_norms": [
+    7.723453566051814,
+    1.2854671636037384e-14
+  ],
+  "node_max_error": 0.0002031896484265272,
+  "interpolation_max_error": 0.003298214081283085
+}

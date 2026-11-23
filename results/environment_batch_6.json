@@ -1,0 +1,18 @@
+{
+  "python": "3.11.0",
+  "platform": "Windows-10-10.0.26300-SP0",
+  "torch": "2.10.0+cpu",
+  "numpy": "1.26.4",
+  "scipy": "1.17.1",
+  "device": "cpu",
+  "dtype": "float64",
+  "threads": 1,
+  "pde_residual": "analytic sigmoid derivatives; cached boundary derivatives",
+  "maxiter": 12000,
+  "seeds": [
+    2
+  ],
+  "cases": [
+    "6"
+  ]
+}

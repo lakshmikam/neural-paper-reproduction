@@ -1,0 +1,16 @@
+{
+  "case": "1",
+  "seed": 0,
+  "parameters": 30,
+  "iterations": 4328,
+  "evaluations": 5063,
+  "optimizer_success": true,
+  "optimizer_message": "Optimization terminated successfully.",
+  "initial_loss": 14.036383651944607,
+  "final_loss": 2.188783060939709e-12,
+  "train_max_error": 3.360366531701686e-07,
+  "test_max_error": 3.366821879069448e-07,
+  "test_rmse": 1.7084775500158557e-07,
+  "seconds": 15.812941399999545,
+  "extrapolation_max_error": 4.9744944813800984e-05
+}

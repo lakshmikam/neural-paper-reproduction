@@ -1,0 +1,15 @@
+{
+  "case": "7",
+  "seed": 1,
+  "parameters": 40,
+  "iterations": 12000,
+  "evaluations": 13070,
+  "optimizer_success": false,
+  "optimizer_message": "Maximum number of iterations has been exceeded.",
+  "initial_loss": 3629.0203833119467,
+  "final_loss": 3.436904289888861e-07,
+  "train_max_error": 7.830571252531726e-07,
+  "test_max_error": 8.192192831879552e-07,
+  "test_rmse": 3.250352002683881e-07,
+  "seconds": 195.13520620000054
+}
